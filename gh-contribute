@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-repo="vilmibm/gh-contribute"
+repo="n4to4/gh-contribute"
 tag="v1.0.3"
 
 extensionPath="$(dirname "$0")"
